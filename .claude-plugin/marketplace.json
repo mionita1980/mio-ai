@@ -1,6 +1,6 @@
 {
-  "name": "mio-ai-orig",
-  "description": "MIO AI plugins - original version",
+  "name": "mio-ai",
+  "description": "MIO AI plugins - optimized version",
   "owner": {
     "name": "Mihai Ionita",
     "email": "mionita1980@proton.me"
