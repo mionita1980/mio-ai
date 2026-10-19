@@ -1,2 +1,3 @@
-# mio-ai
-MIO AI plugins
+# MIO AI Optimized Plugins
+
+MIO AI plugins - optimized version.

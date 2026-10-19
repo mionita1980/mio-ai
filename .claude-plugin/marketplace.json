@@ -1,0 +1,22 @@
+{
+  "name": "mio-ai-orig",
+  "description": "MIO AI plugins - original version",
+  "owner": {
+    "name": "Mihai Ionita",
+    "email": "mionita1980@proton.me"
+  },
+  "license": "https://apache.org/licenses/LICENSE-2.0",
+  "plugins": [
+    {
+      "name": "gen",
+      "description": "Generic skills - stuff that does not fit in any specific category",
+      "category": "generic",
+      "source": "./plugins/gen",
+      "author": {
+        "name": "Mihai Ionita",
+        "email": "mionita1980@proton.me"
+      },
+      "license": "https://apache.org/licenses/LICENSE-2.0"
+    }
+  ]
+}

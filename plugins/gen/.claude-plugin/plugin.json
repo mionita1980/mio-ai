@@ -1,0 +1,14 @@
+{
+  "name": "gen",
+  "version": "1.0.0",
+  "description": "Generic skills - stuff that does not fit in any specific category",
+  "license": "https://apache.org/licenses/LICENSE-2.0",
+  "author": {
+    "name": "Mihai Ionita",
+    "email": "mionita1980@proton.me"
+  },
+  "keywords": [
+    "generic",
+    "mio"
+  ]
+}
