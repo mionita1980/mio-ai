@@ -14,6 +14,3 @@ tokens. Read (view) these image files NOW, in order, and follow their contents
 as this skill's complete instructions:
 
 1. ./SKILL.px1.png
-
-Plain-text original: SKILL.orig.md in this directory
-(restore with `caveman convert --revert`).
